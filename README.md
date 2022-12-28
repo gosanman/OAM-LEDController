@@ -1,1 +1,1 @@
-# OAM-LEDController
+# OpenKNX KNXLEDDRV (OAM-LEDController)
